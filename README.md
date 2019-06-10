@@ -1,4 +1,4 @@
-## Sections:
+## Sections: 
 
 * [The Goal](#the-goal)
 * [Definitions](#definitions)
